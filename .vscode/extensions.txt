@@ -1,0 +1,15 @@
+bung87.rails
+bung87.vscode-gemfile
+castwide.solargraph
+eamodio.gitlens
+esbenp.prettier-vscode
+GraphQL.vscode-graphql
+johnpapa.vscode-peacock
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+octref.vetur
+sdras.night-owl
+sianglim.slim
+TabNine.tabnine-vscode
+wayou.vscode-todo-highlight
+yzhang.markdown-all-in-one
