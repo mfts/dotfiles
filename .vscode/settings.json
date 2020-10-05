@@ -23,6 +23,8 @@
   },
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
   "update.mode": "manual",
   "tabnine.experimentalAutoImports": true,
   "workbench.sideBar.location": "left",
