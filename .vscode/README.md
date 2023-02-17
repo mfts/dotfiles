@@ -10,26 +10,20 @@
 
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-[GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
-
-[Slim](https://marketplace.visualstudio.com/items?itemName=sianglim.slim)
-
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlights TODOs, FIXMEs, and any keywords, annotations...
 
-[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur): Vue tooling for VS Code
-
 [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Visualize code authorship at a glance via Git blame annotations and code lens
+
+[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv): Support for dotenv file syntax
+
+[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Icons for Visual Studio Code
 
 ## Functional
 
 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): All you need to write Markdown [keyboard shortcuts, table of contents, auto preview and more]
 
-[Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph): 
+[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss): Intelligent Tailwind CSS tooling for VS Code
 
-[Rails](https://marketplace.visualstudio.com/items?itemName=bung87.rails)
+[GitHub Copilot Nightly](https://marketplace.visualstudio.com/items?itemName=github.copilot-nightly): Your AI pair programmer - the nightly edition
 
-[vscode-gemfile](https://marketplace.visualstudio.com/items?itemName=bung87.vscode-gemfile)
-
-[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh): SSH server access inside VS Code by Microsoft
-
-[TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode): All-language autocompleter — TabNine uses machine learning to help you write code faster
+[GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces): Your instant dev environment
