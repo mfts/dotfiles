@@ -10,3 +10,7 @@
 	process = git-lfs filter-process
 [init]
 	defaultBranch = main
+[gpg]
+	program = bpb
+[commit]
+	gpgsign = true
