@@ -1,10 +1,21 @@
 {
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "workbench.startupEditor": "newUntitledFile",
-    "window.zoomLevel": 0,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // editor settings
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    // workbench
+    "workbench.sideBar.location": "left",
+    "workbench.colorTheme": "Night Owl",
+    // github copilot extension
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    },
+    // todohighlight extension
+    "todohighlight.isEnable": true,
     "todohighlight.include": [
         "**/*.js",
         "**/*.jsx",
@@ -17,16 +28,8 @@
         "**/*.rb",
         "**/*.erb",
     ],
-    "todohighlight.isEnable": true,
-    "[json]": {
-    
-  },
-  "editor.tabSize": 2,
-  "editor.detectIndentation": false,
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
-  "update.mode": "manual",
-  "tabnine.experimentalAutoImports": true,
-  "workbench.sideBar.location": "left",
-  "workbench.colorTheme": "Night Owl"
+    // telemetry
+    "telemetry.telemetryLevel": "off",
+    "gitlens.telemetry.enabled": false,
+    "redhat.telemetry.enabled": false,
 }
